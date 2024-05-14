@@ -26,7 +26,7 @@ This project implements a responsive Four Card Feature Section using HTML and CS
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   https://github.com/Swati7819/Four-Card-Feature-Section.git
    ```
 
 2. Open the `index.html` file in your browser.
